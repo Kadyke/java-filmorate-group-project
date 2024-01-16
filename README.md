@@ -3,5 +3,5 @@ This application is a social network whose main purpose is to evaluate movies. T
 
 Stack: Java 11, Spring Boot, JDBC, Lombok, H2.
 
-# Schema
+## Schema
 ![Image alt](/filmorate_ER.png)
